@@ -10,7 +10,7 @@ By the end of this lesson, you will be able to:
 To resolve this issue it is important to have a growth mindset about accepting and receiving criticism. A **growth mindset** emphasizes that an individual may not have reached their performance goal yet, but they will be able to get there in the future. Feedback is therefore not something to feel self-conscious about, but instead a tool that everyone needs to help them achieve their goals.
 
 ##### !callout
-"The mistake itself is never the problem. What can be problematic is rather the communication about the mistake: It is just as problematic to limit oneself to naming the problem - and arguing only at the task level - as it is to not name it at all" Hattie/Zierer, _10 Mindframes for Visible Learning: Teaching for Success_ (p. 92).
+"The mistake itself is never the problem. What can be problematic is rather the communication about the mistake: It is just as problematic to limit oneself to naming the problem - and arguing only at the task level - as it is to not name it at all."_10 Mindframes for Visible Learning: Teaching for Success_, Hattie/Zierer, 2017.
 ##### !end-callout
 There are three basic types of feedback:
 

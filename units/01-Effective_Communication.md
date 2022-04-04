@@ -21,7 +21,7 @@ It is also important to engage in the conversation and ask questions to show tha
 
 ## Authentic
 ##### !callout
-“Authenticity… involves two parts: (a) who we say we are  and (b) what we do.” As such, you need to back up your words with your actions. This means taking great care in what you do and say to others.” - _Better Conversations_, Jim Knight, 2015
+“Authenticity… involves two parts: (a) who we say we are  and (b) what we do.” As such, you need to back up your words with your actions. This means taking great care in what you do and say to others.” - _Better Conversations_, Jim Knight, 2015.
 ##### !end-callout
 While you definitely want to be empathetic in a conversation, it is equally important to be open and honest.  People need to know they can trust what you are saying to them in order to fully engage with your ideas. This can be especially difficult when you find yourself disagreeing with someone else’s ideas, or if they take offense to any feedback you provide to them. 
 
