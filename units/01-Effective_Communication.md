@@ -44,3 +44,125 @@ As they say, a picture is worth a thousand words. When trying to communicate a c
 
 **Simplify your language.**
 Fancy wording is great for coming across more eloquently, but avoid using unnecessarily complex words when simple terminology will work. Also be sure to stay away from acronyms unless you’re certain everyone in your group is fully familiar with the term. Sometimes a well orchestrated point can be lost when a recipient is distracted trying to piece together what certain words mean without coming across as uninformed- help them avoid that stress altogether by keeping it simple.
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: ee3777fc-d6ff-4ce9-a321-2930a0b54956
+* title: Technical Writing
+
+##### !question
+
+Which of the following are examples of technical writing? (Select all that apply.)
+
+##### !end-question
+
+##### !options
+
+* Utilizing technology based terminology.
+* Referencing a flowchart while discussing a plan of action.
+* Paraphrasing the ideas you heard your partner suggest immediately following a conversation.
+* Reviewing what the required reading said with your team before creating a plan of action.
+* Keeping your statements brief and to the point.
+
+##### !end-options
+
+##### !answer
+
+* Referencing a flowchart while discussing a plan of action.
+* Paraphrasing the ideas you heard your partner suggest immediately following a conversation.
+* Keeping your statements brief and to the point.
+
+##### !end-answer
+
+##### !explanation
+Correct! Technical writing focuses on keeping ideas clear, concise and as simple as possible. Therefore, keeping statements brief is ideal. Paraphrasing ideas is a great way to increase engagement with a speaker, and checks for overall understanding. Additionally, referencing a flowchart can really add clarity to complex ideas. However, reviewing required reading detracts from communication, as the team should already know that information unless they bring up specific questions or comments related to what was read. Finally, while utilizing technology based terminology isn’t necessarily a bad thing (so long as everyone understands the terms being used,) it is not necessarily relevant to technical writing.
+##### !end-explanation
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 36edd29f-5201-4143-bba0-fb6c0a96e498
+* title: Communication Skills
+
+##### !question
+
+Which of the following traits are associated with good communication? Select all that apply.
+
+##### !end-question
+
+##### !options
+
+* Maintaining Eye Contact
+* Asking questions
+* Taking notes on your phone
+* Paraphrasing the speaker’s main points
+
+##### !end-options
+
+##### !answer
+
+* Maintaining Eye Contact
+* Asking questions
+* Paraphrasing the speaker’s main points
+
+
+##### !end-answer
+
+##### !explanation
+Correct! Maintaining eye contact, asking questions, and paraphrasing the speaker's main points all demonstrate that you are listening and actively engaged in the conversation. Furthermore, the questions and paraphrasing give you the opportunity to gain a deeper understanding of what they are saying and clarify any misunderstandings. While taking notes on your phone can be an active listening strategy, from the speaker’s point of view this can seem as though you are disengaged from the conversation. (Think of the scene in The Socercer’s Stone where Harry was carefully taking notes on the lecture, but professor Snape chastised him for not paying attention.) Oftentimes, you may even miss key parts of the conversation while you’re busy writing down others!
+##### !end-explanation
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: bff0293b-34b6-4ca5-bb5b-47f16be12d19
+* title: Resolving Conflict
+
+##### !question
+
+Sarah and Miguel have been paired on a coding project together for most of the day, and things aren’t going well. They are struggling to keep up with the rest of the class, and now Miguel has stopped listening to Sarah’s suggestions as he types the code on his own. What’s worse, Sarah has been reading through the documentation and is certain that he’s coding things wrong. By the time class is over, both are feeling frustrated, and the project is due at the end of the day tomorrow. What are the **FIRST STEPS** Sarah should take to work to resolve this situation?
+
+##### !end-question
+
+##### !options
+
+* Email the instructor that night about Miguel’s unacceptable behavior.
+* Reflect on the situation, calm down and talk to Miguel in the morning.
+* Calmly tell Miguel that he needs to allow her more input on the project.
+* Apologize to Miguel for distracting him while he was working.
+* Work on a separate project on her own.
+* Prepare a plan for how to improve their workflow going forward.
+
+
+##### !end-options
+
+##### !answer
+
+* Reflect on the situation, calm down and talk to Miguel in the morning.
+* Calmly tell Miguel that he needs to allow her more input on the project.
+* Prepare a plan for how to improve their workflow going forward.
+
+##### !end-answer
+
+##### !explanation
+Correct! Sarah needs to remain assertive, without being aggressive, by clearly talking to Miguel about reestablishing the norms of paired programming. Taking time to calm down and reflect prior to the conversation is important here, as tempers are probably running high and you don’t want the situation to escalate. On the other hand, Sarah should not cede any ground by apologizing, as that confuses the message that she has a right to be a part of the project. Emailing the instructor and/or working individually are reasonable options if the conversation with Miguel proves ineffective, but it is best to attempt to work things out with the team individually before taking more drastic measures.
+##### !end-explanation
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->

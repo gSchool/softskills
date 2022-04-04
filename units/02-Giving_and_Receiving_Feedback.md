@@ -40,3 +40,146 @@ Take the time to ensure your words reflect what you want to say, and limit the o
 
 * **Is your feedback meeting in person, virtual, or in writing?**
 Be cognizant of physical clues and context, as it is more difficult to communicate clearly when not in the same space as the recipient. Written feedback is void of the body language, tone, and social cues verbal feedback provides. Virtual feedback, on the other hand, can have plenty of outside distractions, so ensure that both parties are in an appropriate time and space for the feedback to occur. Having your camera on is important during virtual communication!
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: c4a44059-c0f1-4305-b3f5-df0a5ee0bd82
+* title: The Goal of Feedback
+
+##### !question
+
+What is the main goal of feedback?
+
+##### !end-question
+
+##### !options
+
+* To point out the flaws in the recipient’s performance.
+* To help the recipient continuously improve their performance.
+* To recognize the contributions the recipient has made to the team.
+* To foster group discussion about a topic or issue.
+
+
+##### !end-options
+
+##### !answer
+
+* To help the recipient continuously improve their performance.
+
+##### !end-answer
+
+##### !explanation
+Correct! The goal of feedback is always to foster growth and development, whether it emphasizes positive or negative performance (or both.) As such, have a growth mindset when both giving and receiving feedback.
+##### !end-explanation
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: ordering
+* id: 5913daf1-2e28-4ccd-b67c-b639f93fbcd8
+* title: Types of Feedback
+
+##### !question
+
+Place the definitions in the following order:
+
+Recognition Feedback
+Developmental Feedback
+Performance Feedback
+
+##### !end-question
+
+##### !answer
+
+1. Acknowledges what the recipient is doing well.
+2. Gives the recipient guidance on how to improve.
+3. Measures the recipient against direct expectations.
+
+##### !end-answer
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 040ac1bb-f356-4386-827b-30885fda5913
+* title: Effective Feedback
+
+##### !question
+
+George is a PM looking to establish feedback loops for his team. Which of the following should he establish to ensure feedback is implemented properly? Select all that apply.
+
+##### !end-question
+
+##### !options
+
+* Create rubrics for team members to reference when giving and receiving feedback
+* Attach feedback to individual emails following the completion of a project
+* Ensure feedback sessions have a regular cadence
+* Work to instill a growth mindset within the team
+* Address personal complaints during feedback sessions
+
+##### !end-options
+
+##### !answer
+
+* Create rubrics for team members to reference when giving and receiving feedback
+* Ensure feedback sessions have a regular cadence
+* Work to instill a growth mindset within the team
+
+##### !end-answer
+
+##### !explanation
+Correct! Assigning feedback sessions a weekly cadence allows for the team to adopt feedback as a normal part of their workplace culture, and removes a lot of the fear associated with developmental feedback. Likewise, instilling a growth mindset is also an important part of maintaining healthy team expectations. Creating rubrics for team members during feedback sessions helps their comments to be more specific and actionable, which is always important when seeking to improve.
+
+On the other hand, feedback sessions are NOT meant to be judgemental or for personal complaints. It is very important that they are part of a safe environment for all involved, as otherwise recipients of feedback will shut down rather than improve. Furthermore, remember to keep negative feedback factual, without bias. For example, it is okay to point out that Michael took extra time to find the slide he needed during the presentation, but not to address him as disorganized in the process of doing so. Lastly, while attaching feedback to emails can work as a last resort, it is always better to have feedback sessions in person whenever possible to provide extra context (such as body language and tone of voice) to the discussion.
+##### !end-explanation
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: e1551203-a90a-4aec-9d6d-0d710bff27dc
+* title: The benefits of Feedback
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What are the main goals of feedback, and how is it beneficial for you to receive feedback from others?
+
+##### !end-question
+
+##### !placeholder
+
+3-5 sentences.
+
+##### !end-placeholder
+
+##### !explanation
+The goal of feedback is to foster growth and development in those who receive it. It is important to take feedback seriously, as we all need it to learn where to focus our learning efforts and achieve our full potential. While it may be hard to find out about weaknesses we have, we should all be thankful for those who take the time to help us in this journey.
+##### !end-explanation
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
