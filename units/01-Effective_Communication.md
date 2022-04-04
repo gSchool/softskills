@@ -20,9 +20,9 @@ To form connections with others, you need to show an active interest in what the
 It is also important to engage in the conversation and ask questions to show that you’re truly interested. Starting out with simple, easy-to-answer questions is a great way to increase the comfort level of the speaker, and then you can move into deeper questions as the conversation goes on. Once the conversation has fully developed, you can demonstrate your understanding further by paraphrasing the other person’s ideas. This not only makes those you are speaking to feel fully heard, but it also allows them to correct any misunderstandings you may have.
 
 ## Authentic
-
+##### !callout
 “Authenticity… involves two parts: (a) who we say we are  and (b) what we do.” As such, you need to back up your words with your actions. This means taking great care in what you do and say to others.” - Better Conversations, Jim Knight, 2015
-
+##### !end-callout
 While you definitely want to be empathetic in a conversation, it is equally important to be open and honest.  People need to know they can trust what you are saying to them in order to fully engage with your ideas. This can be especially difficult when you find yourself disagreeing with someone else’s ideas, or if they take offense to any feedback you provide to them. 
 
 The key in these situations is to remain assertive without being aggressive. Maintain neutral or positive body language, and focus on staying calm and non-threatening throughout the interaction. It is okay to negotiate, but always ensure that your idea is openly expressed. Clearly state your point of view, and remember to stay respectful but firm - being over apologetic or backpedaling creates uncertainty in the conversation. However, don’t confuse being firm with keeping an open mind- listen carefully to what the other person has to say in the conversation and feel free to change your mind- just ensure that your positions are readily apparent while you do so.  Also, be sure to avoid blaming others throughout the discussion- owning your ideas allows you to keep your credibility. Following these guidelines will ensure that the group can reach a workable solution- even if it’s more difficult in the short term.
