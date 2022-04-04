@@ -1,0 +1,17 @@
+Standards:
+  - Title: Soft Skills
+    UID: 2add33c5-d855-4ad4-bc58-64e66c5eaeb4
+    Description: Soft Skills Unit
+    SuccessCriteria:
+      - Unit has a config.yaml
+      - Unit has a lesson
+    ContentFiles:
+      - Type: Lesson
+        UID: 9968697e-706d-487d-a8d7-2c4d4709c7c7
+        Path: /units/00-Standard.md
+      - Type: Lesson
+        UID: a99d3b87-6630-4393-9574-ca1bd7616bbf
+        Path: /units/01-Effective_Communication.md
+      - Type: - Type: Lesson
+        UID: a5944771-66fa-49fb-a170-475edf6261de
+        Path: /units/02-Giving_and_Receiving_Feedback.md
