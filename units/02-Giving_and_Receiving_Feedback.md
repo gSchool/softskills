@@ -7,9 +7,11 @@ By the end of this lesson, you will be able to:
 
 **Feedback** is extremely important, as it is an opportunity to improve performance, motivate yourself or others, and strengthen working relationships. Its goal is to foster growth and development, and **NOT** a chance to complain about or belittle the recipient. Despite this, feedback can also create a tense situation as it can be nerve-racking trying to avoid offending your teammates. Alternatively, it can be equally difficult not to take feedback from others too personally. 
 
-To resolve this issue it is important to have a growth mindset about accepting and receiving criticism. A **growth mindset** emphasizes that an individual may not have reached their performance goal yet, but they will be able to get there in the future. Feedback is therefore not something to feel self-conscious about, but instead a tool that everyone needs to help them achieve their goals. 
-"The mistake itself is never the problem. What can be problematic is rather the communication about the mistake: It is just as problematic to limit oneself to naming the problem - and arguing only at the task level - as it is to not name it at all" Hattie/Zierer, _10 Mindframes for Visible Learning: Teaching for Success_ (p. 92).
+To resolve this issue it is important to have a growth mindset about accepting and receiving criticism. A **growth mindset** emphasizes that an individual may not have reached their performance goal yet, but they will be able to get there in the future. Feedback is therefore not something to feel self-conscious about, but instead a tool that everyone needs to help them achieve their goals.
 
+##### !callout
+"The mistake itself is never the problem. What can be problematic is rather the communication about the mistake: It is just as problematic to limit oneself to naming the problem - and arguing only at the task level - as it is to not name it at all" Hattie/Zierer, _10 Mindframes for Visible Learning: Teaching for Success_ (p. 92).
+##### !end-callout
 There are three basic types of feedback:
 
 **Recognition feedback** focuses on acknowledging what people are doing right. It should recognize specific contributions or qualities that are appreciated, and be more than just a general thank you. Recognition feedback makes teammates feel valued, and as a result, increases their overall productivity.
